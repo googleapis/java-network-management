@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.4](https://github.com/googleapis/java-network-management/compare/v1.4.3...v1.4.4) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([cb5d739](https://github.com/googleapis/java-network-management/commit/cb5d739a38bbb8822fffce3e438c474480c20bdd))
+
 ## [1.4.3](https://github.com/googleapis/java-network-management/compare/v1.4.2...v1.4.3) (2022-10-03)
 
 
